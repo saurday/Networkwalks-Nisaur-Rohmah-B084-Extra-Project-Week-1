@@ -3,8 +3,6 @@
 **Author:** Nisaur Rohmah
 **Program:** Networkwalks Cybersecurity Internship, Batch B084
 
-> In this extra project I worked as a SOC analyst. I used Wireshark in browser-based labs to read network captures and find attackers, hidden data, clear-text passwords, and a scam call. All work was done inside the provided labs only.
-
 ---
 
 ## 1. Progress Overview
