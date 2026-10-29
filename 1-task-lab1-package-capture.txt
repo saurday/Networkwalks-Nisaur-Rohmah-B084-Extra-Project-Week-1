@@ -1,0 +1,8 @@
+Lab 1: Package Capture
+
+Answer1: Laptop IP is 192.168.1.200
+Answer2: DNS Server IP is 192.168.1.1
+Answer3: Website IP is 192.232.216.135
+Answer4: Server Name: networkwalks.com
+Answer5: Server Port is 443
+Answer6: TLS version is TLSv1.3
