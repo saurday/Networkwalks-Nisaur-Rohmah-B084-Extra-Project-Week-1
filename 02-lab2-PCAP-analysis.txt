@@ -1,0 +1,9 @@
+Lab 2: PCAP Analysis
+
+Answer1: Laptop IP is 192.168.0.105
+Answer2: DNS Server IP is 8.8.8.8
+Answer3: The DNS server returned 20.70.246.20, 20.76.201.171, 20.112.250.133,
+20.231.239.246 and 20.236.44.162
+Answer4: Server Name: microsoft.com
+Answer5: Server Port is 443
+Answer6: TLS version is TLSv1.3
